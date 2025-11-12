@@ -1,22 +1,21 @@
-# Howdy! It's me!👋  ForgottenCow🐄
+# 🐮ForgottenCow.md🐮
 
 Freshman at Keio University's Faculty of Environment and Information Studies.  
-Also a member of the Sociable Robots Lab☺️.
+Member of the Sociable Robots Lab☺️.
 
-I have a wide variety of skillsets!
- - Read and write C# and Python code
- - Creating games with Unity
- - Creative tools: Blender, Adobe Photoshop, Adobe Premiere Pro
- - Fusion360 for hardware design
+My interests extend beyond creativity into technology.
+ - 🧑‍💻 Coding: C# / Python
+ - 🗿 3D Design: Fusion 360 / Blender / Unity
+ - 🖼️ Art & Media: Clip Studio Paint / Photoshop / Premiere Pro
 
 ---
 
 ## 🏆 Projects & Achievements
 
 - **IKIGAMI (in development):**  
-  Indie game project. *(Details coming soon)*
+*(Details coming soon)*
 
-- **CotoVerse App**  
+- **CotoVerse**  
   <a href="https://apps.apple.com/jp/app/cotoverse/id6740241627" target="_blank">
     <img src="https://img.shields.io/badge/App%20Store-%23007aff.svg?style=flat&logo=apple&logoColor=white" alt="App Store" height="20"/>
   </a>  
@@ -30,11 +29,10 @@ I have a wide variety of skillsets!
 
 
 ---
-## 📈 My Future Visions (2025/06/21)
+## 📈 Future Plans (2025/11/12)
 
-~~My dream is to create a Kawaii waifu robot .~~  
 I aim to design both the hardware and software for General-purpose robots in the next era.  
-My research interests range from building novel AI architectures (such as VLA and world models) to hands-on hardware development.
+My research interests range from building novel AI architectures (diffusion models etc) to hands-on hardware development.
 
 ---
 
@@ -79,7 +77,7 @@ My research interests range from building novel AI architectures (such as VLA an
 
 ---
 
-## 🐾 A Random Cat for You! ฅ^•ω•^ฅ
+## 🐾 Heres some random cat for ya! ฅ^•ω•^ฅ
 
 <table align="center">
   <tr>
@@ -94,5 +92,5 @@ My research interests range from building novel AI architectures (such as VLA an
 
 ---
 
-Feel free to reach out!
+Contact→
 📧 [cow@keio.jp](mailto:cow@keio.jp)
