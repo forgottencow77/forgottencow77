@@ -1,19 +1,26 @@
-# 🐮ForgottenCow.md🐮
+# ForgottenCow.md🐮🐮🐮
+<table align="center">
+  <tr>
+    <td align="center"><b>Enjoy this random cat pic!</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cataas.com/cat" width="250"/>
+    </td>
+  </tr>
+</table>
+I am a Student at Keio University/Sociable Robots Lab.
 
-Freshman at Keio University's Faculty of Environment and Information Studies.  
-Member of the Sociable Robots Lab☺️.
-
-My interests extend beyond creativity into technology.
- - 🧑‍💻 Coding: C# / Python
- - 🗿 3D Design: Fusion 360 / Blender / Unity
- - 🖼️ Art & Media: Clip Studio Paint / Photoshop / Premiere Pro
+My interests extend on various domains.
+ - 🧑‍💻 Coding: Python etc
+ - 🗿 3D: Fusion360 / Blender / Unity
+ - 🎨 Art: ClipStudioPaint / AdobeSoftware(AE/PR/PS)
 
 ---
 
 ## 🏆 Projects & Achievements
 
 - **IKIGAMI (in development):**  
-*(Details coming soon)*
 
 - **CotoVerse**  
   <a href="https://apps.apple.com/jp/app/cotoverse/id6740241627" target="_blank">
@@ -31,8 +38,8 @@ My interests extend beyond creativity into technology.
 ---
 ## 📈 Future Plans (2025/11/12)
 
-I aim to design both the hardware and software for General-purpose robots in the next era.  
-My research interests range from building novel AI architectures (diffusion models etc) to hands-on hardware development.
+My goal is to design both the hardware and software for character development in the robotics era.
+My research ranges from building novel AI(diffusion etc) to hands-on hardware development.
 
 ---
 
@@ -74,21 +81,6 @@ My research interests range from building novel AI architectures (diffusion mode
 </table>
 
 
-
----
-
-## 🐾 Heres some random cat for ya! ฅ^•ω•^ฅ
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Enjoy this random cat pic!</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cataas.com/cat" width="250"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
