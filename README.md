@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🐮 ForgottenCow
+# 🐮 ForgottenCow組み立て手順書
 
-*忘れられた牛は、忘れられないものを作ることにした。*
+*私の名前かっこいいですよね、Googleに５歳の時につけてもらった名前です。*
 
 <br>
 
@@ -15,10 +15,7 @@
 
 ## 📖 第0章 — はじまり
 
-> インターネットの広大な草原に、一頭の牛がいた。
-> 誰にも見向きもされなかった。
-> だから牛は、右の蹄にはんだごてを、左の蹄にペンタブを握った。
-> *「世界が俺を忘れるなら、世界が忘れられないものを作ればいい。」*
+> インターネットの広大な草原に、たった一頭の牛がいた。
 
 慶應SFCの[**Sociable Robots Lab**](https://sr.sfc.keio.ac.jp/www/en/)に棲んでます。
 ヒトと駆け引きするロボットたちに囲まれて暮らす日々。
@@ -51,29 +48,27 @@
   <img src="https://img.shields.io/badge/App%20Store-%23007aff.svg?style=flat&logo=apple&logoColor=white" alt="App Store" height="24"/>
 </a>
 
-3Dアニメキャラと喋れるアプリ。**BlendAI**チームで開発。
+3Dアニメキャラと喋れるアプリ。**BlendAI**様のチームで開発。
 
-- 🎨 UI/UXデザインと新機能企画をリード
-- 🧠 Unity Sentisでローカル推論を実装（端末の中にAIの脳を入れた）
+- 🎨 UI/UXデザインと新機能開発をリード
+- 🧠 Unity Sentisでローカル推論を実装
 - 🛠️ Unity開発チームメンバー
 
 ### 🔥 IKIGAMI *（開発中）*
-*何かが鍛造されている。牛は忘れていない。*
+ちょっと待ってね。別に忘牛だからって忘れてないよ。
 
 ---
 
 ## 🧪 第3章 — 研究室の風景
 
-> 🐮 *「うちの子たちです」*
+> 🐮 *「うちの子たちです、ファンアート募集中」*
 
 <div align="center">
   <img src="spark.png" width="600" alt="DGX Spark x2 ステッカー付き"/>
   <br>
-  <sub>DGX Spark × 2台。Grace Blackwell。128GB統合メモリ。そう、ステッカーは貼る主義。</sub>
+  <sub>DGX Spark × 2台。Grace Blackwell。128GB統合メモリ。そう、"でびるコネクショん"ファンです。</sub>
 </div>
 
-ロボットに脳を与えるには、それなりの計算機がいる。
-こいつらの上でLLMのローカル推論を回して、牛のロボットたちに「考える力」を仕込んでる。
 
 ---
 
@@ -81,18 +76,18 @@
 
 ```mermaid
 timeline
-    title 🐮 忘れられた牛の進化論
-    2024 : CotoVerse リリース
+    title 🐮 忘れられた牛の進化論(仮)
+    2024 : CotoVerse開発
          : Sociable Robots Lab 加入
     2025 : 🦾 ロボットの腕をつくる
          : 🎮 ゲームを世に出す
          : 🎨 とにかく描く
     2026 : 🤖 フルプロトタイプ完成
-         : 🚀 クラファンで世に問う
-    2027-2028 : 📦 小さいビジネスをたくさん持つ
-              : 🧠 ロボットがもっと賢くなる
+         : 🚀 クラファンで一攫千金
+    2027-2028 : 📦 AGIビジネス
+              : 🧠 ロボットに扶養してもらう
     2030 : 🏙️ かわいいロボットを届ける
-         : 🐮 牛はもう忘れられていない
+         : 🐮 牛の世界ができる
 ```
 
 ---
@@ -101,13 +96,13 @@ timeline
 
 <table align="center">
   <tr>
-    <td align="center"><b>今日のねこ 🐱</b></td>
+    <td align="center"><b>🐱今日の仔猫🐾</b></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://cataas.com/cat" width="250"/>
       <br>
-      <sub>牛なのに猫を貼る。リスペクトとはそういうことだ。</sub>
+      <sub>私の自認は猫です。</sub>
     </td>
   </tr>
 </table>
@@ -116,10 +111,8 @@ timeline
 
 <div align="center">
 
-*牛は忘れられた。でも、牛がつくるものは忘れられない。*
+*Copyrighted By モーモーホールディングス(株)*
 
-**「便利」を届けて、気づいたら、なくてはならない存在になっている。**
-**それが牛の勝ち方。**
 
 🐮
 
