@@ -1,119 +1,205 @@
 <div align="center">
 
-# 🐮 ForgottenCow組み立て手順書
+```
+ ██╗██╗  ██╗██╗ ██████╗  █████╗ ███╗   ███╗██╗   ██████╗ ███████╗██╗   ██╗
+ ██║██║ ██╔╝██║██╔════╝ ██╔══██╗████╗ ████║██║   ██╔══██╗██╔════╝██║   ██║
+ ██║█████╔╝ ██║██║  ███╗███████║██╔████╔██║██║   ██║  ██║█████╗  ██║   ██║
+ ██║██╔═██╗ ██║██║   ██║██╔══██║██║╚██╔╝██║██║   ██║  ██║██╔══╝  ╚██╗ ██╔╝
+ ██║██║  ██╗██║╚██████╔╝██║  ██║██║ ╚═╝ ██║██║██╗██████╔╝███████╗ ╚████╔╝
+ ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝╚═════╝ ╚══════╝  ╚═══╝
+```
 
-*私の名前かっこいいですよね、Googleに５歳の時につけてもらった名前です。*
+# 🐮 ForgottenCow
+
+<sub>ゲームとか、キャラクターとか、ロボットとか。作ってます。</sub>
 
 <br>
 
-[![Lab](https://img.shields.io/badge/🏠_居住地-Sociable_Robots_Lab_@_慶應SFC-4a90d9?style=for-the-badge)](https://sr.sfc.keio.ac.jp/www/en/)
-[![Mail](https://img.shields.io/badge/📧_連絡先-cow@keio.jp-ea4335?style=for-the-badge)](mailto:cow@keio.jp)
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/KEIO_SFC-Sociable_Robots_Lab-00d4ff?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-## 📖 第0章 — はじまり
-
-> インターネットの広大な草原に、たった一頭の牛がいた。
-
-慶應SFCの[**Sociable Robots Lab**](https://sr.sfc.keio.ac.jp/www/en/)に棲んでます。
-ヒトと駆け引きするロボットたちに囲まれて暮らす日々。
-
-やりたいこと：**ロボティクス時代のキャラクター開発を、ハードからソフトまで全部やる。**
-拡散モデルからサーボモーターまで、ピクセルアートから基板設計まで。
-
----
-
-## ⚔️ 第1章 — 武器庫
-
-```
- ┌──────────────────────────────────────────────┐
- │  CODE    ██████████████████░░░░  Python, C#  │
- │  3D      █████████████████░░░░░  Fusion360   │
- │          █████████████████░░░░░  Blender     │
- │          █████████████████░░░░░  Unity       │
- │  ART     ████████████████████░░  ClipStudio  │
- │          ███████████████░░░░░░░  Adobe全般   │
- │  根性    ██████████████████████  測定不能    │
- └──────────────────────────────────────────────┘
+```bash
+cow@sfc:~$ cat /etc/motd
 ```
 
----
+> **忘れられた牛は、忘れられない"好き"を作りたい。**
+> ただそれだけ。
 
-## 🗺️ 第2章 — 冒険の記録
+ゲームとロボットの間にある「キャラクターが"そこにいる"感じ」を作りたくて、
+絵・3D・UI・推論・実機まで、つながるところをつないでます。
 
-### 🎮 CotoVerse
-<a href="https://apps.apple.com/jp/app/cotoverse/id6740241627">
-  <img src="https://img.shields.io/badge/App%20Store-%23007aff.svg?style=flat&logo=apple&logoColor=white" alt="App Store" height="24"/>
-</a>
-
-3Dアニメキャラと喋れるアプリ。**BlendAI**様のチームで開発。
-
-- 🎨 UI/UXデザインと新機能開発をリード
-- 🧠 Unity Sentisでローカル推論を実装
-- 🛠️ Unity開発チームメンバー
-
-### 🔥 IKIGAMI *（開発中）*
-ちょっと待ってね。別に忘牛だからって忘れてないよ。
+[**Sociable Robots Lab**](https://sr.sfc.keio.ac.jp/www/en/) — 慶應SFC / ヒトと駆け引きをするモノたちの未来
 
 ---
 
-## 🧪 第3章 — 研究室の風景
-
-> 🐮 *「うちの子たちです、ファンアート募集中」*
+```bash
+cow@sfc:~$ cat /proc/loadout
+```
 
 <div align="center">
-  <img src="spark.png" width="600" alt="DGX Spark x2 ステッカー付き"/>
-  <br>
-  <sub>DGX Spark × 2台。Grace Blackwell。128GB統合メモリ。そう、"でびるコネクショん"ファンです。</sub>
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=00ff41"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Fusion_360-0d1117?style=for-the-badge&logo=autodesk&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/🎨_Clip_Studio_Paint-0d1117?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/After_Effects-0d1117?style=for-the-badge&logo=adobeaftereffects&logoColor=bf00ff"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-0d1117?style=for-the-badge&logo=adobepremierepro&logoColor=bf00ff"/>
+<img src="https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=bf00ff"/>
+
 </div>
 
-
----
-
-## 🔮 第4章 — この先の地図
-
-```mermaid
-timeline
-    title 🐮 忘れられた牛の進化論(仮)
-    2024 : CotoVerse開発
-         : Sociable Robots Lab 加入
-    2025 : 🦾 ロボットの腕をつくる
-         : 🎮 ゲームを世に出す
-         : 🎨 とにかく描く
-    2026 : 🤖 フルプロトタイプ完成
-         : 🚀 クラファンで一攫千金
-    2027-2028 : 📦 AGIビジネス
-              : 🧠 ロボットに扶養してもらう
-    2030 : 🏙️ かわいいロボットを届ける
-         : 🐮 牛の世界ができる
+```
+ ┌──────────────────────────────────────────────────────┐
+ │  CODE    ███████████████████░░░░  Python / C#        │
+ │  ENGINE  ██████████████████░░░░░  Unity              │
+ │  3D      █████████████████░░░░░░  Blender / Fusion   │
+ │  ART     ████████████████████░░░  Clip Studio Paint  │
+ │  VIDEO   ███████████████░░░░░░░░  Adobe (AE/PR/PS)  │
+ │  GRIT    ████████████████████████  測定不能          │
+ └──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎲 第5章 — 日常
+```bash
+cow@sfc:~$ ps aux --sort=-priority
+```
 
-<table align="center">
-  <tr>
-    <td align="center"><b>🐱今日の仔猫🐾</b></td>
-  </tr>
+### 🎮 CotoVerse &nbsp; <a href="https://apps.apple.com/jp/app/cotoverse/id6740241627"><img src="https://img.shields.io/badge/App_Store-DEPLOYED-00ff41?style=flat-square&logo=apple&logoColor=white&labelColor=0d1117"/></a>
+
+3Dアニメキャラと会話できるアプリ。[**BlendAI**](https://apps.apple.com/jp/app/cotoverse/id6740241627) チームで開発。
+UI/UXと機能企画を中心に触って、Unity Sentisでローカル推論も載せた。
+端末の中にAIの脳を入れた。サーバーいらず。
+
+### 🔥 IKIGAMI &nbsp; <img src="https://img.shields.io/badge/IN__DEV-bf00ff?style=flat-square&labelColor=0d1117"/>
+
+"雰囲気"だけじゃなく、世界観をちゃんとルールにするRPGを作ってます。
+
+<details>
+<summary>&nbsp;いまの状況</summary>
+
+```
+[STATUS]  ██████████░░░░░░░░░░  鍛造中
+[TODO]    ちゃんと形にする
+```
+
+</details>
+
+### 🤖 ロボット &nbsp; <img src="https://img.shields.io/badge/ONGOING-00d4ff?style=flat-square&labelColor=0d1117"/>
+
+ローカル推論 + センサー + 反応設計あたりを触ってる。
+「賢い」より先に「ちゃんとそこにいる」が目標。
+
+---
+
+```bash
+cow@sfc:~$ lspci | grep GPU
+```
+
+<div align="center">
+  <img src="spark.png" width="600" alt="DGX Spark x2"/>
+</div>
+
+```yaml
+Device:   NVIDIA DGX Spark ×2
+Arch:     Grace Blackwell
+Memory:   128GB Unified / unit
+Purpose:  ロボットに脳を与える
+Sticker: （そう、私はでびるコネクションファンです）
+```
+
+---
+
+```bash
+cow@sfc:~$ cat /var/log/blueprint.md
+```
+
+やりたいことの流れ。全部つながってる（つもり）。
+
+```mermaid
+flowchart LR
+  A[キャラ / 好き] --> B[体験 / 触り心地]
+  B --> C[脳 / ローカル推論]
+  C --> D[認識 / 視覚・音声]
+  D --> E[反応 / 振る舞い]
+  E --> F[身体 / 表現]
+  F --> G["存在感 / そこにいる"]
+  C <--> H[計測 / latency・token/s・電力]
+```
+
+---
+
+```bash
+cow@sfc:~$ git log --oneline --graph
+```
+
+```
+* ◇ 2030  かわいいロボットを社会に届ける
+│
+* ◇ 2027  小さくてもいいから、続く形にする
+│
+* ◇ 2026  プロトタイプを"人に見せられる形"にする
+│
+* ◇ 2025  IKIGAMIを形にする / ロボットの腕 / 描く  ← HEAD
+│
+* ◆ 2024  CotoVerse リリース / Sociable Robots Lab 加入
+```
+
+---
+
+```bash
+cow@sfc:~$ fortune
+```
+
+<div align="center">
+<table>
   <tr>
     <td align="center">
-      <img src="https://cataas.com/cat" width="250"/>
-      <br>
-      <sub>私の自認は猫です。</sub>
+      <sub><code>$ cat /dev/random_creature</code></sub><br>
+      <img src="https://cataas.com/cat" width="220"/><br>
+      <sub><code>[WARN] Expected cow. Got cat. Acceptable.</code></sub>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 <div align="center">
 
-*Copyrighted By モーモーホールディングス(株)*
+```bash
+cow@sfc:~$ echo $PHILOSOPHY
+```
 
+**「便利」を届けて、気づいたら、なくてはならない存在になっている。**
 
-🐮
+<br>
+
+[![Lab](https://img.shields.io/badge/◈_Sociable_Robots_Lab-00d4ff?style=flat-square&labelColor=0d1117)](https://sr.sfc.keio.ac.jp/www/en/)
+&nbsp;&nbsp;
+[![Mail](https://img.shields.io/badge/◈_cow@keio.jp-00ff41?style=flat-square&labelColor=0d1117)](mailto:cow@keio.jp)
+
+```bash
+cow@sfc:~$ exit
+logout
+Connection to forgottencow closed. 🐮
+```
+
+<br>
+
+<sub>© モーモーホールディングス(株) / All moos reserved.</sub>
 
 </div>
